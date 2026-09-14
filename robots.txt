@@ -1,0 +1,14 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+
+User-Agent: OAI-SearchBot
+Allow: /
+
+User-Agent: Claude-SearchBot
+Allow: /
+
+User-Agent: PerplexityBot
+Allow: /
+
+Sitemap: https://phaladamou.github.io/sitemap.xml
